@@ -1,0 +1,101 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "userId": "1",
+      "title": "Monthly Salary",
+      "amount": 35000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-08-01",
+      "description": "August salary"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "title": "Groceries",
+      "amount": 5000,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-08-05",
+      "description": "Monthly grocery shopping"
+    },
+    {
+      "id": "3",
+      "userId": "1",
+      "title": "Travel",
+      "amount": 3125,
+      "type": "expense",
+      "category": "Transport",
+      "date": "2026-08-09",
+      "description": "Travel expenses"
+    },
+    {
+      "id": "4",
+      "userId": "1",
+      "title": "Shopping",
+      "amount": 1875,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-08-12",
+      "description": "Personal shopping"
+    },
+    {
+      "id": "5",
+      "userId": "1",
+      "title": "Electricity Bill",
+      "amount": 1250,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2026-08-15",
+      "description": "Monthly electricity bill"
+    },
+    {
+      "id": "6",
+      "userId": "1",
+      "title": "Movie",
+      "amount": 1250,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2026-08-18",
+      "description": "Movie and dinner"
+    },
+    {
+      "id": "7",
+      "userId": "2",
+      "title": "Monthly Salary",
+      "amount": 42000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-08-01",
+      "description": "August salary"
+    },
+    {
+      "id": "8",
+      "userId": "2",
+      "title": "Fuel",
+      "amount": 2000,
+      "type": "expense",
+      "category": "Transport",
+      "date": "2026-08-08",
+      "description": "Car fuel"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "1",
+      "userId": "1",
+      "month": "2026-08",
+      "amount": 20000
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Swathy S",
+      "email": "swathylatika@gmail.com",
+      "password": "123456"
+    }
+  
+  ]
+}
